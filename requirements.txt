@@ -40,6 +40,7 @@ google-auth-httplib2==0.2.0
 googleapis-common-protos==1.70.0
 grpcio==1.75.0
 grpcio-status==1.71.2
+h11==0.16.0
 httplib2==0.31.0
 idna==3.10
 importlib_resources==6.5.2
@@ -89,3 +90,4 @@ typing_extensions==4.15.0
 tzdata==2025.2
 uritemplate==4.2.0
 urllib3==2.5.0
+uvicorn==0.35.0
