@@ -69,6 +69,7 @@ pydantic_core==2.33.2
 pydot==4.0.1
 pyparsing==3.2.4
 python-dateutil==2.9.0.post0
+python-multipart==0.0.20
 pytz==2025.2
 pyxnat==1.6.3
 rdflib==7.2.1
