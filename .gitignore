@@ -1,0 +1,41 @@
+# Ignore virtual environments
+venv/
+.venv/
+env/
+Lib/
+Scripts/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Uploads
+uploads/*.csv
+uploads/*.xlsx
+
+# Logs
+*.log
+
+# But keep source code and docs
+!*.py
+!*.md
+!requirements.txt
+!Dockerfile
+!*.yaml
+!*.yml
